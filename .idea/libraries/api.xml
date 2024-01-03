@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="api">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/JFrame-20041212-src.jar!/doc/api" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/JFrame-20041212-src.jar!/src" />
+    </SOURCES>
+  </library>
+</component>

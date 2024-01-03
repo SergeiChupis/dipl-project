@@ -1,0 +1,6 @@
+<tmDat>
+	<tmi input = "190829_v29854.knp"
+	     output = "out.txt"/>
+	<xml input = "KNP-173_14_33_58_dat.xml"/>
+	<dim input = "dimens.ion"/>
+</tmDat>
